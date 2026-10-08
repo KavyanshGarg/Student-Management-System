@@ -1,0 +1,15 @@
+# Program data
+students.txt
+
+# C++ compiled files
+*.exe
+*.out
+*.o
+*.obj
+
+# VS Code settings
+.vscode/
+
+# Operating system files
+.DS_Store
+Thumbs.db
